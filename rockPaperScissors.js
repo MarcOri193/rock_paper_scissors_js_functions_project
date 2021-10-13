@@ -57,7 +57,7 @@ const determineWinner = (userChoise, computerChoise) => {
     return 'You super won!';
   }
 
-}
+};
 // determine the Winner function
 
 
